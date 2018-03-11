@@ -11,8 +11,8 @@ tags:
 - Wearables
 - Stack Network
 - Internet of Things
-created: "2018-02-26"
-modified: "2018-02-26"
+created: "2018-03-10"
+modified: "2018-03-10"
 url: https://raw.githubusercontent.com/streamdata-gallery/wearables/master/_listings/strap/apis.yaml
 specificationVersion: "0.14"
 apis: []
