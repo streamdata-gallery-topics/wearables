@@ -1,0 +1,166 @@
+{
+	"name": "Streadata.io API Gallery - Wearables",
+	"description": "This is a repository of wearables APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/wearables.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://wearables.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Apple",
+			"x-api-slug": "apple",
+			"description": "https://t.co/jw2s2L0RLt",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/155-apple.jpg",
+			"humanURL": "http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html",
+			"baseURL": "https:///",
+			"tags": "Wearables",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/apple/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Salesforce",
+			"x-api-slug": "salesforce",
+			"description": "Build more meaningful and lasting relationships and connect with your customers across sales, customer service, marketing, communities, apps, analytics, and more using our Customer Success Platform. Try for Free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg",
+			"humanURL": "http://developer.salesforce.com",
+			"baseURL": "https://na14.salesforce.com//services/data/",
+			"tags": "Wearables",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/salesforce/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fitbit",
+			"x-api-slug": "fitbit",
+			"description": "Find your fit with Fitbits family of fitness products that help you stay motivated and improve your health by tracking your activity, exercise, food, weight and sleep.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/200-fitbit.jpg",
+			"humanURL": "http://fitbit.com",
+			"baseURL": "https://api.fitbit.com//1",
+			"tags": "Wearables",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/fitbit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Samsung Gear",
+			"x-api-slug": "samsung-gear",
+			"description": "Download the SDK and start building your services for Samsung Gear S2. We can&rsquo;t wait to meet the new apps you will create! Samsung Gear S2 provides you Circular UX, which allows you to use the Bezel to build new user experiences. Cross compatibility between all the Gear devices is important to give a seamless experience from one device to another. Guidelines for developing on Tizen-based wearable applications are available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/samsun-developers.png",
+			"humanURL": "http://developer.samsung.com/gear",
+			"baseURL": "https:///",
+			"tags": "Wearables",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/samsung-gear/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Misfit",
+			"x-api-slug": "misfit",
+			"description": "Misfit is focused on developing great wearable products: things that people would want to wear all the time for a long time. A pioneer in the emerging world of wearable sensor technology, the company is making products and services in the consumer health and fitness space to inspire people be more active and develop healthy habits. Misfit&rsquo;s first product is the Shine, an elegant personal activity tracker that you can instantly sync with your smartphone just by placing the device on the screen.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/misfit-wearables.png",
+			"humanURL": "https://build.misfit.com/",
+			"baseURL": "https:///",
+			"tags": "Wearables",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/misfit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Fit",
+			"x-api-slug": "google-fit",
+			"description": "Google Fit is an open ecosystem that allows developers to upload fitness data to a central repository where users can access their data from different devices and apps in one location. Fitness apps can store data from any wearable or sensor. Fitness apps can access data created by any app. Users fitness data is persisted when they upgrade their fitness devices.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-fit.jpg",
+			"humanURL": "https://developers.google.com/fit/overview",
+			"baseURL": "://www.googleapis.com//fitness/v1/users",
+			"tags": "Wearables",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/google-fit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Glass",
+			"x-api-slug": "google-glass",
+			"description": "Glass is fundamentally different than existing mobile platforms in both design and use. Follow these principles when building Glassware to give users the best experience.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-03-16 at 11.10.43 PM.png",
+			"humanURL": "https://developers.google.com/glass/",
+			"baseURL": "://www.googleapis.com//mirror/v1",
+			"tags": "Wearables",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/google-glass/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twine",
+			"x-api-slug": "twine",
+			"description": "Twine Health is a cloud-based collaborative care platform for chronic disease management. It consists of a patient engagement portal, a peer support network, a care management solution, and an outcome analytics tool. The platform enables users to co-create personalized care plans that serve as common ground for collaboration with their care team: their own providers such as physicians and nurse practitioners; their family and friends; and coaches such as nurses, pharmacists, health coaches, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twinehealth.png",
+			"humanURL": "http://twinehealth.com",
+			"baseURL": "https://api.twinehealth.com//pub",
+			"tags": "Wearables",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/twine/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Wearables",
+	"include": [
+		{
+			"name": "Apple",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/apple/apis.yaml"
+		},
+		{
+			"name": "Salesforce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/salesforce/apis.yaml"
+		},
+		{
+			"name": "Fitbit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/fitbit/apis.yaml"
+		},
+		{
+			"name": "Samsung Gear",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/samsung-gear/apis.yaml"
+		},
+		{
+			"name": "Misfit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/misfit/apis.yaml"
+		},
+		{
+			"name": "Google Fit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/google-fit/apis.yaml"
+		},
+		{
+			"name": "Google Glass",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/google-glass/apis.yaml"
+		},
+		{
+			"name": "Twine",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/twine/apis.yaml"
+		}
+	]
+}

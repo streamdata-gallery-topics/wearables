@@ -1,36 +1,51 @@
 ---
 name: Apple
-description: Apple is an American multinational corporation headquartered in Cupertino,
-  California that designs, develops, and sells consumer electronics, computer software
-  and personal computers. It was founded by Steve Jobs, Ronald Wayne and Steve Wozniak.
-  Some of Applersquo;s best-known hardware products are the Mac line of computers,
-  the iPod music player, the iPhone smartphone, and the iPad tablet computer. Its
-  consumer software includes the OS X and iOS operating systems, the iTunes media
-  browser, the Safari web browser, and the iLife and iWork creativity and productivity
-  suites.
-image: https://avatars.githubusercontent.com/u/10639145?v=3
+x-slug: apple
+description: https://t.co/jw2s2L0RLt
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/155-apple.jpg
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Wearables
-- Storage
-- Storage
-- Stack Network
-- Mobile
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/wearables/master/_listings/apple/apis.yaml
+x-alexaRank: "73"
+tags: Wearables
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/apple/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
 - type: x-base
   url: https://itunes.apple.com/
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/apple
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/apple
+- type: x-developer
+  url: https://developer.apple.com/documentation/
+- type: x-email
+  url: contactus.at@euro.apple.com
+- type: x-email
+  url: contactus.befr@euro.apple.com
+- type: x-email
+  url: contactus.benl@euro.apple.com
+- type: x-email
+  url: contactus.chde@euro.apple.com
+- type: x-email
+  url: contactus.chfr@euro.apple.com
+- type: x-email
+  url: contactus.cz@apple.com
+- type: x-email
+  url: contactus.de@euro.apple.com
+- type: x-email
+  url: contactus.dk@euro.apple.com
+- type: x-email
+  url: contactus.es@euro.apple.com
+- type: x-email
+  url: contactus.fi@euro.apple.com
 - type: x-github
   url: https://github.com/Apple
 - type: x-transparency-report
   url: http://www.apple.com/privacy/transparency-reports/
+- type: x-twitter
+  url: https://twitter.com/Apple
 - type: x-website
   url: http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html
 include: []

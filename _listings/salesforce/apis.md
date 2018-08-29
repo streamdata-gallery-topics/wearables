@@ -1,37 +1,25 @@
 ---
 name: Salesforce
-description: Salesforce.com Inc. is a global enterprise software company headquartered
-  in San Francisco, California. Though best known for its customer relationship management
-  (CRM) product, Salesforce has also expanded into the social enterprise arena through
-  acquisitions. It is currently ranked the most innovative company in America by Forbes
-  magazine, as well as number 27 in Fortunes magazines 100 Best Companies to Work
-  For in 2012. As of April 2013, the company is ranked sixth in providing services
-  in marketing and customer service automation
-image: https://avatars.githubusercontent.com/u/453694?v=3
+x-slug: salesforce
+description: Build more meaningful and lasting relationships and connect with your
+  customers across sales, customer service, marketing, communities, apps, analytics,
+  and more using our Customer Success Platform. Try for Free.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Wearables
-- Stack Network
-- Stack
-- Spreadsheets
-- Sales
-- Productivity
-- Partners
-- PaaS
-- Notifications
-- Hosting
-- Freshbooks
-- Database
-- Customer
-- CRM
-- BaaS
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/wearables/master/_listings/salesforce/apis.yaml
+x-alexaRank: "146"
+tags: Wearables
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/wearables/master/_listings/salesforce/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-website
+  url: http://developer.salesforce.com
+- type: x-api-gallery
+  url: http://runscope.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://salesforce.stack.network
 - type: x-base
   url: https://na1.salesforce.com
 - type: x-blog
@@ -40,12 +28,36 @@ x-common:
   url: http://feeds.feedburner.com/SforceBlog
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/salesforce
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/salesforce
+- type: x-email
+  url: legal@salesforce.com
+- type: x-email
+  url: copyright@salesforce.com
+- type: x-email
+  url: legalcompliance@salesforce.com
+- type: x-email
+  url: trademarks@salesforce.com
+- type: x-email
+  url: privacymark@salesforce.com
+- type: x-email
+  url: marketingcloudsupport@salesforce.com
+- type: x-email
+  url: support@desk.com
+- type: x-email
+  url: credits@salesforce.com
+- type: x-email
+  url: privacy@salesforce.com
 - type: x-github
   url: https://github.com/salesforce
 - type: x-partners
   url: https://partners.salesforce.com/
 - type: x-twitter
   url: https://twitter.com/salesforcedevs
+- type: x-twitter
+  url: https://twitter.com/salesforce
+- type: x-website
+  url: http://salesforce.com
 - type: x-website
   url: https://developer.salesforce.com/
 include: []
